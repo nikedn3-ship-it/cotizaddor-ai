@@ -1,0 +1,6 @@
+{
+  "name": "NORXTEC ERP - Cotizaciones Android",
+  "description": "Sistema de cotizaciones tipo Odoo para Android y Web con catálogo en tiempo real, carrito de compras, generador de PDFs profesionales y Chat IA integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
